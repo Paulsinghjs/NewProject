@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CucumberSample
+Bundle-SymbolicName: CucumberSample
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.runner,
+ com.stepdefinition
